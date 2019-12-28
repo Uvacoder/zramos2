@@ -1,2 +1,2 @@
 # serverless-portfolio
-Serverless using AWS
+Serverless using AWS and ReactJS
